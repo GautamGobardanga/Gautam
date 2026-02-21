@@ -1,6 +1,14 @@
-a {
-    font-size: 20px;
-    text-decoration: none;
+body {
+    font-family: Arial, sans-serif;
+background: cyan;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+a { text-decoration: none;
 }
 .wordart1 {
     font-size: 15px;
@@ -19,14 +27,35 @@ a {
     background: linear-gradient(to right, red, orange, blue);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    margin-left: 50px;
+    margin-left: 200px;
     margin-top: 30px;
 
 }
 
 .wordart3 {
 
-    font-size: 42px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background: blue;
+    text-align: center;
+    margin-top: 1px;
+
+
+}
+.wordart3A{
+
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+    background: cyan;
+    text-align: left;
+    margin-top: 1px;
+    margin-left: 100px;
+}
+.wordart4 {
+
+    font-size: 25px;
     font-weight: bold;
     color: #1a73e8;
     background: cyan;
@@ -37,16 +66,79 @@ a {
             2px 2px 0 #777,
             3px 3px 0 #555;
 }
-.wordart4 {
+.main-image{
 
-    font-size: 25px;
-    font-weight: bold;
-    color: #1a73e8;
-    background: cyan;
-    margin-left: 50px;
 
-    text-shadow:
-            1px 1px 0 #999,
-            2px 2px 0 #777,
-            3px 3px 0 #555;
+    max-width: 25%;
+    height: 25%;
+
+    justify-content: center ;
+
+    align-items: center ;
+
+}
+.main-image1{
+
+    max-width: 25%;
+    height: 25%;
+
+    justify-content: center  ;
+    align-items: center;
+
+
+}
+.main-image2{
+
+    max-width: 25%;
+    height: 25%;
+
+
+    justify-content: center ;
+    align-items: center ;
+
+
+
+}
+.menu {
+    background-color: darkred;
+    padding: 10px;
+    text-align: left;
+}
+
+.menu a {
+    color: lightyellow;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+html,body {
+    height: 100%;
+    margin:0;
+}
+.page{
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+    text-decoration-color: red;
+    font-style: oblique;
+    font-size: large;
+    text-align: start ;
+
+}
+footer{
+    margin-top: 500px;
+    background: lightyellow;
+
+    text-align: center;
+    padding: 10px;
+}
+.site-header{
+   position: sticky;
+    top: 0;
+    background-color: #004aad;
+    color: white;
+    padding: 10px 20px;
+    z-index: 1000;
+
+
 }
