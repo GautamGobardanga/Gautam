@@ -72,9 +72,9 @@ a { text-decoration: none;
     max-width: 25%;
     height: 25%;
 
-    justify-content: center ;
-
-    align-items: center ;
+    width: 300px;      /* same width */
+    height: 200px;     /* same height */
+    object-fit: cover; /* crop nicely */
 
 }
 .main-image1{
