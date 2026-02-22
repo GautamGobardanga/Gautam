@@ -115,23 +115,7 @@ html,body {
     height: 100%;
     margin:0;
 }
-.page{
-    min-height: 100vh;
-    display:flex;
-    flex-direction: column;
-    text-decoration-color: red;
-    font-style: oblique;
-    font-size: large;
-    text-align: start ;
 
-}
-footer{
-    margin-top: 500px;
-    background: lightyellow;
-
-    text-align: center;
-    padding: 10px;
-}
 .site-header{
    position: sticky;
     top: 0;
