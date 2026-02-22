@@ -72,8 +72,7 @@ display: flex;
     justify-content: space-around;
     gap: 20px;
     flex-wrap:wrap;
-    width: 300px;      /* same width */
-    height: 200px;     /* same height */
+   
     object-fit: cover; /* crop nicely */
 
 }
