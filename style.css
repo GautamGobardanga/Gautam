@@ -142,7 +142,7 @@ footer{
 
 
 }
-.header-container {
+
    .header-container {
     display: flex;              /* makes items side by side */
     align-items: center;        /* vertical alignment */
