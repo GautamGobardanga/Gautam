@@ -146,7 +146,7 @@ footer{
    .header-container {
     display: flex;              /* makes items side by side */
     align-items: center;        /* vertical alignment */
-    justify-content: center;    /* center horizontally */
+    justify-content: space-aruond;    /* center horizontally */
     gap: 20px;                  /* space between items */
     flex-wrap: wrap;  
 
