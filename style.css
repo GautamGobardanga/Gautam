@@ -67,17 +67,19 @@ a { text-decoration: none;
             3px 3px 0 #555;
 }
 .main-image{
-
+  max-width: 25%;
+    height: 25%;
 display: flex;
     justify-content: space-around;
     gap: 20px;
     flex-wrap:wrap;
    
-    object-fit: cover; /* crop nicely */
+   
 
 }
 .main-image1{
-
+  max-width: 25%;
+    height: 25%;
    display: flex;
     justify-content: space-around;
     gap: 20px;
