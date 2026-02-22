@@ -72,7 +72,7 @@ a { text-decoration: none;
     
 
     width: 300px;      /* same width */
-    height: auto;     /* same height */
+    height: 200px;     /* same height */
     object-fit: cover; /* crop nicely */
 
 }
