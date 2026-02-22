@@ -67,7 +67,7 @@ a { text-decoration: none;
             3px 3px 0 #555;
 }
 .main-image{
-  max-width: 25%;
+  width: 25%;
     height: 25%;
 
    
@@ -76,7 +76,7 @@ a { text-decoration: none;
 
 }
 .main-image1{
-  max-width: 25%;
+  width: 25%;
     height: 25%;
  
    
@@ -87,7 +87,7 @@ a { text-decoration: none;
 }
 .main-image2{
 
-    max-width: 25%;
+    width: 25%;
     height: 25%;
 
 
