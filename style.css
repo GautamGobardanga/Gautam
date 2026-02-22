@@ -69,11 +69,10 @@ a { text-decoration: none;
 .main-image{
 
 
-    max-width: 25%;
-    height: 25%;
+    
 
     width: 300px;      /* same width */
-    height: 200px;     /* same height */
+    height: auto;     /* same height */
     object-fit: cover; /* crop nicely */
 
 }
