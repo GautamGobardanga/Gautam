@@ -144,15 +144,33 @@ footer{
 }
 .header-container {
     display: flex;
-    align-items: flex-left;
-    gap: 15px;
+
+    align-items: center;
+    gap: 10px;
+
+
+
 }
 
 .logo {
     width: 80px;
     height: auto;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.placeholder{
+    max-width: 50%;
+    height: 50%;
+
+    margin-top: 25px;
+
+    margin-left: 100px;
+
 }
 
 .header-text {
     text-align: left;
+    margin-top: 40px;
+    margin-left: 20px;
+    color:blue;
 }
