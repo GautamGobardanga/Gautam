@@ -144,7 +144,7 @@ footer{
 }
 .header-container {
     display: flex;
-    align-items: center;
+    align-items: flex-left;
     gap: 15px;
 }
 
