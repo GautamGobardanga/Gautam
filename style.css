@@ -143,10 +143,12 @@ footer{
 
 }
 .header-container {
-    display: flex;
-
-    align-items: center;
-    gap: 10px;
+   .header-container {
+    display: flex;              /* makes items side by side */
+    align-items: center;        /* vertical alignment */
+    justify-content: center;    /* center horizontally */
+    gap: 20px;                  /* space between items */
+    flex-wrap: wrap;  
 
 
 
