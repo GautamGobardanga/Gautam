@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-background: cyan;
+    background: cyan;
 }
 
 h1 {
@@ -24,9 +24,9 @@ a { text-decoration: none;
 .wordart2 {
     font-size: 22px;
     font-weight: bold;
-    background: linear-gradient(to right, red, orange, blue);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background: cyan;
+    text-align: left;
+    color: blue;
     margin-left: 200px;
     margin-top: 30px;
 
@@ -37,21 +37,19 @@ a { text-decoration: none;
     font-size: 25px;
     font-weight: bold;
     color: white;
-    background: blue;
+    background:blue;
     text-align: center;
-    margin-top: 1px;
-
-
+    margin-top: 10px;
 }
 .wordart3A{
 
-    font-size: 20px;
+    font-size: 12px;
     font-weight: bold;
     color: blue;
     background: cyan;
     text-align: left;
-    margin-top: 1px;
-    margin-left: 100px;
+    margin-top: 25px;
+    margin-left: 10px;
 }
 .wordart4 {
 
@@ -67,31 +65,24 @@ a { text-decoration: none;
             3px 3px 0 #555;
 }
 .main-image{
-  width: 300px;
+    width: 300px;
     height: 200px;
     object-fit: cover;
 
     border-radius: 12px;              /* rounded corners */
     box-shadow: 0 4px 10px rgba(0,0,0,0.25); /* shadow */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-   
-   
-   
-
+    
 }
 .main-image1{
- width: 300px;
+    width: 300px;
     height: 200px;
     object-fit: cover;
 
     border-radius: 12px;              /* rounded corners */
     box-shadow: 0 4px 10px rgba(0,0,0,0.25); /* shadow */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-   
-
     
-
-
 }
 .main-image2{
 
@@ -102,20 +93,39 @@ a { text-decoration: none;
     border-radius: 12px;              /* rounded corners */
     box-shadow: 0 4px 10px rgba(0,0,0,0.25); /* shadow */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 20px;
 
-
-
+    background-color: darkred;
+    padding: 10px 20px;
 
 
 }
-.menu {
-    background-color: darkred;
+.menu a{
+    color: white;
+    text-decoration: none ;
+}
+
+.menu > a,
+.menu > .dropdown {
+    display: inline-flex;
+    align-items: center;
+    color: lightyellow;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+.menu1 {
+    background-color: darkblue;
     padding: 10px;
     text-align: left;
 }
 
-.menu a {
-    color: lightyellow;
+.menu1 a {
+    color: white;
     text-decoration: none;
     margin: 0 15px;
     font-size: 18px;
@@ -142,7 +152,7 @@ footer{
     padding: 10px;
 }
 .site-header{
-   position: sticky;
+    position: sticky;
     top: 0;
     background-color: #004aad;
     color: white;
@@ -152,12 +162,12 @@ footer{
 
 }
 
-   .header-container {
+.header-container {
     display: flex;              /* makes items side by side */
     align-items: center;        /* vertical alignment */
-    justify-content: space-aruond;    /* center horizontally */
+    justify-content: space-around;    /* center horizontally */
     gap: 20px;                  /* space between items */
-    flex-wrap: wrap;  
+    flex-wrap: wrap;
 
 
 
@@ -176,15 +186,15 @@ footer{
 
     margin-top: 25px;
 
-    margin-left: 100px;
+    margin-left: 50px;
 
 }
 
 .header-text {
-    text-align: justyfy-all;
+    text-align: left;
     margin-top: 25px;
     margin-left: 20px;
-   
+
 }
 .contact-item{
     display: flex;
@@ -192,19 +202,59 @@ footer{
     gap: 10px;
     max-width: 80px;
 }
-    .icon{
+.icon{
     max-width: 50%;
     height: 50%;
 
     margin-top: 25px;
 
-    margin-left: 150px;
+    margin-left: 10px;
 }
-    .phone{
-            max-width: 50%;
+.phone{
+    max-width: 50%;
     height: 50%;
 
     margin-top: 25px;
 
-    margin-left: 250px;
-    }
+    margin-left: 10px;
+}
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: blue;
+    color:white;
+    min-width: 180px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    z-index: 1000;
+}
+
+.dropdown-content a {
+    color: white;
+    display: block;
+    padding: 10px;
+}
+.dropdown-content.show {
+
+    display: block;
+
+}
+
+
+.dropbtn {
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    display: inline-block;
+}
+.dropdown-content a:hover {
+    background: #f0f0f0;
+}
+
+
