@@ -68,8 +68,8 @@ a { text-decoration: none;
             3px 3px 0 #555;
 }
 .main-image{
-    width: 150px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
     object-fit: cover;
 
     border-radius: 12px;              /* rounded corners */
@@ -78,8 +78,8 @@ a { text-decoration: none;
 
 }
 .main-image1{
-    width: 150px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
     object-fit: cover;
 
     border-radius: 12px;              /* rounded corners */
@@ -99,8 +99,8 @@ a { text-decoration: none;
 }
 .main-image3{
 
-    width: 150px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
     object-fit: cover;
 
     border-radius: 12px;              /* rounded corners */
