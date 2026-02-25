@@ -71,6 +71,7 @@ a { text-decoration: none;
      display: flex;              /* ⭐ makes horizontal */
     gap: 10px;                  /* space between images */
     justify-content: center; 
+    margin-top: 10px;
 }
 .main-image {
     width: 200px;
