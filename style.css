@@ -67,7 +67,7 @@ a { text-decoration: none;
             2px 2px 0 #777,
             3px 3px 0 #555;
 }
-.main-image img{
+.main-image{
     width: 300px;
     height: 200px;
     object-fit: cover;
