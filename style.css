@@ -94,6 +94,11 @@ a { text-decoration: none;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 
 }
+.gallery1{
+     display: flex;              /* ⭐ makes horizontal */
+    gap: 10px;                  /* space between images */
+    justify-content: center; 
+}
 .photobox {
  width: 300px;
     height: 200px;
