@@ -67,6 +67,11 @@ a { text-decoration: none;
             2px 2px 0 #777,
             3px 3px 0 #555;
 }
+.gallery {
+     display: flex;              /* ⭐ makes horizontal */
+    gap: 10px;                  /* space between images */
+    justify-content: center; 
+}
 .main-image {
     width: 300px;
     height: 200px;
