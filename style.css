@@ -78,8 +78,8 @@ a { text-decoration: none;
 
 }
 .main-image1{
-    width: 25%px;
-    height: 25%px;
+    width: 25%;
+    height: 25%;
     object-fit: cover;
 
     border-radius: 12px;              /* rounded corners */
