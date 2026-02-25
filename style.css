@@ -1,6 +1,8 @@
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: Garamond;
     background: cyan;
+    font-size: 12px;
 }
 
 h1 {
@@ -43,12 +45,12 @@ a { text-decoration: none;
 }
 .wordart3A{
 
-    font-size: 12px;
+    font-size: 15px;
     font-weight: bold;
     color: blue;
     background: cyan;
     text-align: left;
-    margin-top: 25px;
+    margin-top: 20px;
     margin-left: 10px;
 }
 .wordart4 {
@@ -72,7 +74,7 @@ a { text-decoration: none;
     border-radius: 12px;              /* rounded corners */
     box-shadow: 0 4px 10px rgba(0,0,0,0.25); /* shadow */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    
+
 }
 .main-image1{
     width: 300px;
@@ -82,7 +84,7 @@ a { text-decoration: none;
     border-radius: 12px;              /* rounded corners */
     box-shadow: 0 4px 10px rgba(0,0,0,0.25); /* shadow */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    
+
 }
 .main-image2{
 
@@ -177,7 +179,7 @@ footer{
     width: 80px;
     height: auto;
     margin-left: 10px;
-    margin-top: 25px;
+    margin-top: 20px;
     color:cyan;
 }
 .placeholder{
@@ -192,7 +194,7 @@ footer{
 
 .header-text {
     text-align: left;
-    margin-top: 25px;
+    margin-top: 20px;
     margin-left: 20px;
 
 }
@@ -201,6 +203,7 @@ footer{
     align-items: center;
     gap: 10px;
     max-width: 80px;
+     margin-top: 25px;
 }
 .icon{
     max-width: 50%;
@@ -214,47 +217,56 @@ footer{
     max-width: 50%;
     height: 50%;
 
-    margin-top: 25px;
+    margin-top: 20px;
 
     margin-left: 10px;
 }
+.dropbtn {
+    
+    padding: 10px 15px;
+    cursor: pointer;
+   
+}
 .dropdown {
     position: relative;
+    display: inline-block; 
 }
+
 
 .dropdown-content {
     display: none;
-    position: absolute;
+    position:absolute;
     top: 100%;
-    left: 0;
-    background: blue;
+    left:0;
+   background-color: blue;
+   color:white;
+  
+}
+
+
+.dropdown-content a{
+    display: block;
+    padding: 10px 15px;
+    width: 160px;
+    border-bottom: 1px dotted #ccc;
     color:white;
-    min-width: 180px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    z-index: 1000;
-}
-
-.dropdown-content a {
-    color: white;
-    display: block;
-    padding: 10px;
-}
-.dropdown-content.show {
-
-    display: block;
-
-}
-
-
-.dropbtn {
-    color: white;
-    text-decoration: none;
-    padding: 8px 12px;
-    cursor: pointer;
-    display: inline-block;
+    background-color: blue;
+    font-size: 15px;
+    width: 100%;
 }
 .dropdown-content a:hover {
-    background: #f0f0f0;
+    background-color: red;
+    
 }
 
+.dropdown-content.show{
 
+    display: block;
+
+}
+
+.box{
+    width:160px;
+    padding:20px;
+    border: 5px solid black;
+}
