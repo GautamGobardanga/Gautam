@@ -166,6 +166,9 @@ a { text-decoration: none;
     top: 0;
     left: 100%;
 }
+sub-dropdown:hover > .sub-dropdown-content{
+    display:block;
+}
 
 /* menu items */
 .dropdown-content a {
