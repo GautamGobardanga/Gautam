@@ -274,11 +274,11 @@ footer{
 .dropdown-content a{
     display: block;
     padding: 10px 15px;
-    width: 160px;
+    width: 200px;
     border-bottom: 1px dotted #ccc;
     color:white;
-    background-color: blue;
-    font-size: 15px;
+    background-color: red;
+    font-size: 10px;
     width: 100%;
 }
 
