@@ -135,13 +135,8 @@ a { text-decoration: none;
    
 }
 
-.dropdown-content.show{
 
-    display: block;
 
-}
-
-}
 
 /* dropdown container */
 .dropdown {
@@ -183,6 +178,12 @@ a { text-decoration: none;
 .dropdown-content a:hover {
     background: darkred;
 }
+.dropdown-content.show{
+
+    display: block;
+
+}
+
 
 .menu1 {
     background-color: darkblue;
