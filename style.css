@@ -147,7 +147,7 @@ a { text-decoration: none;
 .dropdown-content {
     display: none;
     position: absolute;
-    background: blue;
+    background: darkred;
     min-width: 200px;
     z-index: 1000;
 }
@@ -174,7 +174,7 @@ a { text-decoration: none;
 }
 
 .dropdown-content a:hover {
-    background: darkred;
+    background: red;
 }
 
 
