@@ -166,9 +166,6 @@ a { text-decoration: none;
     top: 0;
     left: 100%;
 }
-.sub-dropdown:hover > .dropdown-content{
-    display:block;
-}
 
 /* menu items */
 .dropdown-content a {
@@ -180,11 +177,6 @@ a { text-decoration: none;
 
 .dropdown-content a:hover {
     background: darkred;
-}
-.dropdown-content.show{
-
-    display: block;
-
 }
 
 
