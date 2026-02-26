@@ -162,7 +162,7 @@ a { text-decoration: none;
     position: relative;
 }
 
-.sub-dropdown .dropdown-content {
+.sub-dropdown-content {
     top: 0;
     left: 100%;
 }
