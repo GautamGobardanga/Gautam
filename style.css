@@ -272,6 +272,10 @@ footer{
     font-size: 15px;
     width: 100%;
 }
+/* ⭐ KEY LINE */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
 .dropdown-content a:hover {
     background-color: red;
     
