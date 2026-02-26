@@ -158,9 +158,7 @@ a { text-decoration: none;
 }
 
 /* submenu positioning */
-.sub-dropdown {
-    position: relative;
-}
+
 
 .sub-dropdown .dropdown-content {
     top: 0;
