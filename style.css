@@ -264,6 +264,15 @@ footer{
     font-size: 15px;
     width: 100%;
 }
+.sub-dropdown {
+    position: relative;
+}
+
+.sub-dropdown .dropdown-content {
+    top: 0;
+    left: 100%; /* opens to the right */
+}
+
 /* ⭐ KEY LINE */
 .dropdown:hover .dropdown-content {
     display: block;
