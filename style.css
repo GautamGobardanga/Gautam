@@ -128,7 +128,61 @@ a { text-decoration: none;
     color: white;
     text-decoration: none ;
 }
+.dropbtn {
+    
+    padding: 10px 15px;
+    cursor: pointer;
+   
+}
 
+.dropdown-content.show{
+
+    display: block;
+
+}
+
+}
+
+/* dropdown container */
+.dropdown {
+    position: relative;
+}
+
+/* all dropdown contents hidden */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background: blue;
+    min-width: 200px;
+    z-index: 1000;
+}
+
+/* show ONLY direct child menu */
+.dropdown:hover > .dropdown-content {
+    display: block;
+}
+
+/* submenu positioning */
+.sub-dropdown {
+    position: relative;
+}
+
+.sub-dropdown .dropdown-content {
+    top: 0;
+    left: 100%;
+}
+
+/* menu items */
+.dropdown-content a {
+    display: block;
+    padding: 8px 12px;
+    color: white;
+    white-space: nowrap;
+}
+
+.dropdown-content a:hover {
+    background: darkred;
+}
 
 .menu1 {
     background-color: darkblue;
@@ -230,64 +284,6 @@ footer{
     margin-top: 20px;
 
     margin-left: 10px;
-}
-.dropbtn {
-    
-    padding: 10px 15px;
-    cursor: pointer;
-   
-}
-.dropdown {
-    position: relative;
-    display: inline-block; 
-}
-
-
-.dropdown-content {
-    display: none;
-    position:absolute;
-    top: 100%;
-    left:0;
-   background-color: darkred;
-   color:white;
-  
-}
-/* ⭐ KEY LINE */
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-.dropdown-content a:hover {
-    background-color: red;
-    
-}
-
-
-.sub-dropdown {
-    position: relative;
-}
-
-.sub-dropdown .dropdown-content {
-    top: 0;
-    left: 100%; /* opens to the right */
-    font-size: 10px;
-}
-
-.dropdown-content a{
-    display: block;
-    padding: 10px 15px;
-    width: 200px;
-    border-bottom: 1px dotted #ccc;
-    color:white;
-    background-color: darkred;
-    font-size: 10px;
-    width: 100%;
-}
-
-
-.dropdown-content.show{
-
-    display: block;
-
 }
 
 .box{
