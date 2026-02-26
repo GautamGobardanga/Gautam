@@ -269,6 +269,7 @@ footer{
 .sub-dropdown .dropdown-content {
     top: 0;
     left: 100%; /* opens to the right */
+    font-size: 10px;
 }
 
 .dropdown-content a{
@@ -277,7 +278,7 @@ footer{
     width: 200px;
     border-bottom: 1px dotted #ccc;
     color:white;
-    background-color: red;
+    background-color: darkred;
     font-size: 10px;
     width: 100%;
 }
@@ -290,7 +291,7 @@ footer{
 }
 
 .box{
-    width:160px;
+    width:200px;
     padding:20px;
     border: 5px solid black;
 }
