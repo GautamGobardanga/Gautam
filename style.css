@@ -162,11 +162,11 @@ a { text-decoration: none;
     position: relative;
 }
 
-.sub-dropdown-content {
+.sub-dropdown .dropdown-content {
     top: 0;
     left: 100%;
 }
-.sub-dropdown:hover > .sub-dropdown-content{
+.sub-dropdown:hover > .dropdown-content{
     display:block;
 }
 
