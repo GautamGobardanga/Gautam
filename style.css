@@ -224,8 +224,8 @@ footer{
      margin-top: 25px;
 }
 .icon{
-    max-width: 50%;
-    height: 50%;
+    max-width: 100%;
+    height: auto;
 
     margin-top: 25px;
 
