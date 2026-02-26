@@ -78,9 +78,7 @@ a { text-decoration: none;
     height: 200px;
    overflow: hidden;
  margin-top: 20px;
-    border-radius: 12px;              /* rounded corners */
-    box-shadow: 0 4px 10px rgba(0,0,0,0.25); /* shadow */
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+   ;
 
 
 }
