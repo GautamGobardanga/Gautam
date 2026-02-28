@@ -38,8 +38,8 @@ a { text-decoration: none;
     padding: 20px;
     width: 70%;
     margin: 20px auto;
-    margin-left:500px;
-    background-color: blue;
+    text-align: center;
+    background-color: cyan;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     text-align: center;
@@ -48,7 +48,7 @@ a { text-decoration: none;
 .about-frame p {
     font-size: 16px;
     line-height: 1.6;
-    color: white;
+    color: blue;
 }
 
 .wordart3 {
