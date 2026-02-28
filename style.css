@@ -92,6 +92,25 @@ a { text-decoration: none;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 
 }
+.main-image1 {
+    width: 100;
+    height: auto;
+   overflow: hidden;
+   margin-top: 20px;
+   
+}
+.main-image1 img{
+    
+    
+    margin-left: 150px;
+    object-fit: cover;
+    
+    border-radius: 12px;              /* rounded corners */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.25); /* shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+}
+
 .gallery1{
      display: flex;              /* ⭐ makes horizontal */
     gap: 10px;                  /* space between images */
