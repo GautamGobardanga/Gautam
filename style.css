@@ -290,7 +290,8 @@ footer{
     padding: 20px;
     width: 70%;
     margin: 20px auto;
-    background-color: #f9f9f9;
+    margin-left:500px;
+    background-color: blue;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     text-align: center;
@@ -299,4 +300,5 @@ footer{
 .about-frame p {
     font-size: 16px;
     line-height: 1.6;
+    color: white;
 }
