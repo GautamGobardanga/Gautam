@@ -33,23 +33,6 @@ a { text-decoration: none;
     margin-top: 30px;
 
 }
-.about-frame {
-    border: 2px solid #2c3e50;
-    padding: 20px;
-    width: 70%;
-    margin: 20px auto;
-    text-align: center;
-    background-color: cyan;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    text-align: center;
-}
-
-.about-frame p {
-    font-size: 16px;
-    line-height: 1.6;
-    color: blue;
-}
 
 .wordart3 {
 
@@ -300,5 +283,22 @@ footer{
     width:200px;
     padding:20px;
     border: 5px solid black;
+}
+.about-frame {
+    border: 2px solid #2c3e50;
+    padding: 20px;
+    width: 70%;
+    margin: 20px auto;
+    text-align: center;
+    background-color: cyan;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.about-frame p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: blue;
 }
 
