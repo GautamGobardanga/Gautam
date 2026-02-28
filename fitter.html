@@ -8,18 +8,71 @@
 <div id="header"></div>
 
 <script src="main.js"></script>
-<main class="gallery1">
+<main class="gallery">
 
      <div class="photobox">
-    <img src="workshop1.jpg"  alt="MVITI" >
+       <img src="workshop1.jpg"  alt="MVITI" >
      </div>    
-<div class="photobox">
-    <img src="workshop2.jpg"  alt="MVITI" >
-</div>
-<div class="photobox">     
+    <div class="photobox">
+       <img src="workshop2.jpg"  alt="MVITI" >
+    </div>
+    <div class="photobox">     
     <img src="workshop3.jpg"  alt="MVITI" >
-</div>
+    </div>
 </main>
+<table class="mviti-table">
+    <tr>
+        <th> Trade </th>
+        <th> Year </th>
+        <th> Subject1</th>
+        <th> Subject2</th>
+        <th> Subject3</th>
+        <th> Subject4</th>
+        <th> Subject5</th>
+        <th> Subject6</th>
+    </tr>
+    <tr>
+        <td> Fitter</td>
+        <td> First Year</td>
+        <td><a href="#"> Trade Theory</a></td>
+        <td> <a href="#" >Trade Practical</a> </td>   
+        <td> <a href="#" onclick="workshopTechnology('workshop1')" >Workshop Technology</a></td>          
+        <td> <a href="#"  onclick="workshopTechnology('engineeringDrawing1')" >Engineering Drawing</a></td>
+        <td> <a href="#">Employbility</a></td>
+    </tr>
+    <tr>
+        <td> Fitter</td>
+        <td> Second Year</td>
+        <td><a href="#"> Trade Theory</a></td>
+        <td> <a href="#" >Trade Practical</a> </td>   
+        <td> <a href="#" onclick="workshopTechnology('workshop')" >Workshop Technology</a></td>
+         <td> <a href="#" onclick="workshopTechnology('engineeringDrawing')" >Engineering Drawing</a></td>
+          <td> <a href="#">Employbility</a></td>
+    </tr>
+     
+
+</table>
+           <div id="workshop" class="workshop-box" style="display:none; margin-top: 20px; text-align: center;" >
+            
+                <img src="WorkshopTechnology.jpeg" alt="WS" style="max-width: 50%; border:2px solid; border-radius: 8px;">
+
+                <script src="main.js"></script>
+            </div>
+            <div id="workshop1" class="workshop-box" style="display:none; margin-top: 20px; text-align: center;" >
+                <img src="WorkshopTechnology1.jpeg" alt="WS" style="max-width: 50%; border:2px solid; border-radius: 8px;">
+
+                <script src="main.js"></script>
+            </div>
+           <div id="engineeringDrawing1" class="workshop-box" style="display:none; margin-top: 20px; text-align: center;" >
+                <img src="Engineering_Drawing_1stYear.jpeg" alt="WS" style="max-width: 50%; border:2px solid; border-radius: 8px;">
+ 
+                <script src="main.js"></script>
+            </div>
+             <div id="engineeringDrawing" class="workshop-box" style="display:none; margin-top: 20px; text-align: center;" >
+                <img src="Engineering_Drawing_2ndYear.jpeg" alt="WS" style="max-width: 50%; border:2px solid; border-radius: 8px;">
+ 
+                <script src="main.js"></script>
+            </div>
 
 </body>
 </html>
