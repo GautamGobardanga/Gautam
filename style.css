@@ -12,7 +12,7 @@ h1 {
 
 a { text-decoration: none;
 }
-.wordart1 {
+.wordart1{
     font-size: 15px;
     font-weight: bold;
     color: magenta;
@@ -23,7 +23,7 @@ a { text-decoration: none;
     margin-top: 50px;
     margin-left: 50px;
 }
-.wordart2 {
+.wordart2{
     font-size: 22px;
     font-weight: bold;
     background: cyan;
@@ -34,7 +34,7 @@ a { text-decoration: none;
 
 }
 
-.wordart3 {
+.wordart3{
 
     font-size: 25px;
     font-weight: bold;
@@ -54,7 +54,7 @@ a { text-decoration: none;
     margin-top: 20px;
     margin-left: 10px;
 }
-.wordart4 {
+.wordart4{
 
     font-size: 25px;
     font-weight: bold;
@@ -67,13 +67,13 @@ a { text-decoration: none;
             2px 2px 0 #777,
             3px 3px 0 #555;
 }
-.gallery {
+.gallery{
      display: flex;              /* ⭐ makes horizontal */
     gap: 10px;                  /* space between images */
     justify-content: center; 
    
 }
-.main-image {
+.main-image{
     width: 300px;
     height: 200px;
    overflow: hidden;
@@ -92,9 +92,9 @@ a { text-decoration: none;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 
 }
-.main-image1 {
+.main-image1{
     width: 400px;
-    height: auto;
+    height: 250px;
    overflow: hidden;
    margin-top: 20px;
    
