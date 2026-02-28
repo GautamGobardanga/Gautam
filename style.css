@@ -93,15 +93,14 @@ a { text-decoration: none;
 
 }
 .main-image1{
-    width: 400px;
-    height: 300px;
+    width: 100;
+    height: auto;
    overflow: hidden;
    margin-top: 20px;
    
 }
 .main-image1 img{
-    width:80%;
-    height: auto;
+   
     margin-left: 150px;
     object-fit: cover;
     
