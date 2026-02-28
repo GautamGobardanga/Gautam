@@ -303,4 +303,50 @@ footer{
     line-height: 1.6;
     color: blue;
 }
+.mviti-table {
+    width: 80%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.mviti-table th {
+    background-color: blue;
+    color: #ffffff;
+    padding: 12px;
+    font-size: 16px;
+}
+
+.mviti-table td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
+.mviti-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.mviti-table tr:hover {
+    background-color: #e6f0ff;
+}
+
+/* Link styling inside table */
+.mviti-table a {
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+.mviti-table a:hover {
+    text-decoration: underline;
+}
+.mviti-table td a {
+    display: block;
+    padding: 10px;
+}
 
