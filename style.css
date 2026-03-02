@@ -145,6 +145,7 @@ a { text-decoration: none;
 .menu a{
     color: white;
     text-decoration: none ;
+    font-size: 18px;
 }
 .dropbtn {
     
