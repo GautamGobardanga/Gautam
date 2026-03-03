@@ -1,0 +1,97 @@
+Fitter 2nd Year
+Trade Theory
+
+Screws: material, designation, specifications, Property classes(e.g. 9.8 on screw head), Tools for tightening/ loosening of screw or bolts, Torque wrench, screw joint calculation uses. Power tools: its constructional features, uses & maintenance.
+
+Locking device: Nuts- types (lock nut castle nut, slotted nuts, swam nut, grooved nut) Description and use. Various types of keys, allowable
+clearances & tapers, types, uses of key pullers. (06 hrs.)
+
+Special files: types (pillar, Dread naught, Barrow, warding) description & their uses. (07 hrs.
+
+Templates and Radius/fillet gauge, feeler gauge, hole gauge, and their uses, care and maintenance.  (05 hrs.)
+
+Slip gauge: Necessity of using, classification & accuracy, set of blocks (English and Metric). Details of slip gauge. Metric sets 46: 103:
+112. Wringing and building up of slip gauge and care and maintenance.  (06 hrs.)
+
+Application of slip gauges for measuring, Sine Bar-Principle, application & specification. Procedure to check adherence to specification and 
+quality standards.  (05 hrs.)
+
+Lapping: Application of lapping, material for lapping tools, lapping abrasives, charging of lapping tool. Surface finish importance, equipment for testing-terms relation to surface finish. Equipment for tasting surfaces quality – dimensional tolerances of surface finish. (06 hrs.)
+
+Honing: Application of honing, material for honing, tools shapes, grades, honing abrasives. Frosting its aim and the methods of
+performance. (05 hrs.)
+
+Metallurgical and metal working processes such as Heat treatment, various heat treatment methods - normalizing, annealing, hardening
+and tempering, purpose of each method, tempering colour chart.  (06 hrs.)
+
+Annealing and normalizing, Case hardening and carburising and its methods, process of carburising (solid, liquid and gas). (07 hrs.)
+
+Tapers on keys and cotters permissible by various standards. (06 hrs.)
+
+The various coatings used to protect metals, protection coat by heat and electrical deposit treatments. Treatments to provide a pleasing
+finish such as chromium silver plating, nickel plating and galvanizing. (05hrs.)
+
+Gauges and types of gauge commonly used in gauging finished product-Method of selective assembly ‘Go’ system of gauges, hole plug  basis of standardization. (06 hrs)
+
+Bearing-Introduction, classification (Journal and Thrust), Description of each, ball bearing: Single row, double row, description of each, and
+advantages of double row. (06 hrs.)
+
+Roller and needle bearings: Types of roller bearing. Description & use of each. Method of fitting ball and roller bearings (06 hrs.)
+
+Bearing metals – types, composition and uses. Synthetic materials for bearing: The plastic laminate materials, their properties and uses in bearings
+such as phenolic,  Teflon polyamide (nylon). (06hrs.)
+
+The importance of keeping the work free from rust and corrosion. (06 hrs.)
+
+Pipes and pipe fitting- commonly used pipes. Pipe schedule and standard sizes. Pipe bending methods. Use of bending fixture, pipe threads-Std. Pipe threads Die and Tap, pipe vices. (06 hrs.)
+
+Use of tools such as pipe cutters, pipe wrenches, pipe dies, and tap, pipe bending machine etc. (06 hrs.)
+
+Standard pipe fitting Methods of fitting or replacing the above fitting, repairs and erection on rainwater drainage pipes and household taps and pipe work. Inspection & Quality control-Basic SPC-Visual Inspection. (06 hrs.)
+
+Drilling jig-constructional features, types and uses. Fixtures Constructional features, types and uses. (06 hrs.)
+
+Aluminum and its alloys. Uses, advantages and disadvantages, weight and strength as compared with steel. Non-ferrous metals such as brass, phosphor bronze, gunmetal, copper, aluminum etc. Their composition and purposes, where and why used, advantages for specific purposes, surface wearing properties of bronze and brass. (04 hrs.)
+
+Power transmission elements. The object of belts, their sizes and specifications, materials of which the belts are made, selection of the type of belts with the consideration of weather, load and tension methods of joining leather belts. (04 hrs)
+
+Vee belts and their advantages and disadvantages, use of commercial belts, dressing and resin creep and slipping, calculation. Power transmissions- coupling
+types-flange coupling,-Hooks coupling-universal coupling and their different uses. Pulleys-types-solid, split and ‘V’ belt pulleys, standard calculation for
+determining size crowning of faces loose and fast pulleys-jockey pulley. Types of drives-open and cross belt drives. The geometrical explanation of the belt drivers at an angle.
+Clutch: Type, positive clutch (straight tooth type, angular tooth type). Chains, wire ropes and clutches for power transmission. Their types and brief description. (15 hrs.)
+
+Power transmission –by gears, most common form spur gear, set names of some essential parts of the set-The pitch circles, Diametral pitch, velocity ratio of a gear set. (05 hrs.)
+
+Helical gear, herring bone gears, bevel gearing, spiral bevel gearing, hypoid gearing, pinion and rack, worm gearing, velocity ratio of worm gearing. Repair of gear teeth by building up and dovetail method. (05 hrs)
+
+Method or fixing geared wheels for various purpose drives. General cause of the wear and tear of the toothed wheels and their remedies, method of fitting spiral gears, helical gears, bevel gears, worm and worm wheels in relation to required drive. Care and maintenance of gears. (05 hrs.)
+
+Fluid power, Pneumatics, Hydraulics, and their comparison, Overview of a pneumatic system, Boyle’s law. Overview of an industrial hydraulic system, Applications, Pascal’s Law. (05 hrs.)
+
+Compressed air generation and conditioning, Air compressors, Pressure regulation, Dryers, Air receiver, Conductors and fittings, FRL unit, Applications of pneumatics, Hazards & safety precautions in pneumatic systems. Pneumatic actuators:- Types, Basic operation, Force, Stroke length, Single-acting and double-acting cylinders. (07 hrs.
+
+Pneumatic valves:- Classification, Symbols of pneumatic components, 3/2-way valves (NO & NC types) (manually-actuated & pneumatically actuated) & 5/2-way valves, Check valves, Flow control valves, One-way flow control valve Pneumatic valves: Roller valve, Shuttle valve, Two-pressure valve
+Electro-pneumatics: Introduction, 3/2-way single solenoid valve, 5/2-way single solenoid valve, 5/2-way double solenoid valve, Control components
+-Pushbuttons (NO & NC type) and Electromagnetic relay unit, Logic controls. (07 hrs.)
+
+Symbols of hydraulic components, Hydraulic oils – function, properties, and types, Contamination in oils and its control- Hydraulic Filters – types, constructional features, and their typical installation locations, cavitation, Hazards & safety precautions in hydraulic systems- Hydraulic reservoir & accessories,
+Pumps, Classification – Gear/vane/piston types, Pressure relief valves– Direct acting and pilot-operated types.
+
+- Pipes, tubing, Hoses and fittings –Constructional details, Minimum bend radius, routing tips for hoses. (07 hrs.)
+
+- Hydraulic cylinders –Types - Hydraulic motors –Types - Hydraulic valves: Classification, Directional Control valves – 2/2- and 3/2-way valves
+- Hydraulic valves: 4/2- and 4/3-way valves, Centre positions of 4/3-way valves - Hydraulic valves: Check pneumatic and hydraulic systems (The practical for this component may demonstrated by video). (10 hrs.)
+valves and Pilot-operated check valves, Load holding function - Flow control valves: Types, Speed control methods – meter-in and meter-out
+- Preventive maintenance & troubleshooting of pneumatic & hydraulic systems, System malfunctions due to contamination, leakage, friction, improper
+mountings, cavitation, and proper sampling of hydraulic oils. (05 hrs.) 
+
+Importance of Technical English terms used in industry –(in simple definition only)Technical forms, process charts, activity logs, in required formats of industry, estimation, cycle time, productivity reports, job cards. (05 hrs.)
+
+Method of lubrication-gravity feed, force (pressure) feed, splash lubrication. Cutting lubricants and coolants: Soluble off soaps, suds paraffin, soda water, common lubricating oils and their commercial names, selection of lubricants. Washers-Types and calculation of washer sizes. The making of joints
+and fitting packing. (18 hrs.)
+
+Lubrication and lubricants- purpose of using different types, description and uses of each type. Method of lubrication. A good lubricant, viscosity of the lubricant, Main property of lubricant. How a film of oil is formed in journal Bearings. (04 hrs.)
+
+Foundation bolt: types (Lewis cotter bolt) description of each erection tools, pulley block, crowbar, spirit level, Plumb bob, wire rope, manila rope, wooden block. The use of lifting appliances, extractor presses and their use. Practical method of obtaining mechanical advantage. The slings and handling of heavy machinery, special precautions in the removal and replacement of heavy parts. (12 hrs).
+
+
