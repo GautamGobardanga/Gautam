@@ -21,6 +21,7 @@
     </div>
 </main>
 <table class="mviti-table">
+    <caption class="table-title"> Fitter Syllabus</caption>
     <tr>
         <th> Trade </th>
         <th> Year </th>
@@ -29,34 +30,43 @@
         <th> Subject3</th>
         <th> Subject4</th>
         <th> Subject5</th>
-        <th> Subject6</th>
+        
     </tr>
     <tr>
         <td> Fitter</td>
         <td> First Year</td>
-        <td><a href="#"> Trade Theory</a></td>
-        <td> <a href="#" >Trade Practical</a> </td>   
-        <td> <a href="#" onclick="workshopTechnology('workshop1')" >Workshop Technology</a></td>          
+        <td><a href="#" onclick="tradetheory('tt1','Fitter_1stYear_TT.txt')"; return false; > Trade Theory</a></td>
+        <td> <a href="#"  >Trade Practical</a> </td>
+        <td> <a href="#" onclick="workshopTechnology('workshop1')">Workshop Technology</a></td>          
         <td> <a href="#"  onclick="workshopTechnology('engineeringDrawing1')" >Engineering Drawing</a></td>
-        <td> <a href="#">Employbility</a></td>
+        <td> <a href="#"  onclick="loadPDF('pdfBox','ES_1stYear.pdf')"; return false;>Employbility Part1 and Part2</a></td>
     </tr>
     <tr>
         <td> Fitter</td>
         <td> Second Year</td>
-        <td><a href="#"> Trade Theory</a></td>
+        <td><a href="#" onclick="tradetheory('tt2','Fitter_2ndYear_TT.txt')"; return false;> Trade Theory</a></td>
         <td> <a href="#" >Trade Practical</a> </td>   
         <td> <a href="#" onclick="workshopTechnology('workshop')" >Workshop Technology</a></td>
          <td> <a href="#" onclick="workshopTechnology('engineeringDrawing')" >Engineering Drawing</a></td>
-          <td> <a href="#">Employbility</a></td>
+          <td> <a href="#" onclick="loadPDF('pdfBox','ES_2ndYear.pdf')"; return false;>Employbility</a></td>
     </tr>
      
 
 </table>
-           <div id="workshop" class="workshop-box" style="display:none; margin-top: 20px; text-align: center;" >
-            
+        <div id="tt1" class="workshop-box about-box" style="display:none; "  ></div>
+                  
+             <script src="main.js"></script>
+
+          <div id="tt2" class="workshop-box about-box" style="display:none; "  ></div>
+                  
+             <script src="main.js"></script>
+          
+       
+         <div id="workshop" class="workshop-box" style="display:none; margin-top: 20px; text-align: center;" >
                 <img src="WorkshopTechnology.jpeg" alt="WS" style="max-width: 50%; border:2px solid; border-radius: 8px;">
 
-                <script src="main.js"></script>
+               
+             <script src="main.js"></script>
             </div>
             <div id="workshop1" class="workshop-box" style="display:none; margin-top: 20px; text-align: center;" >
                 <img src="workshopTechnology1.jpeg" alt="WS" style="max-width: 50%; border:2px solid; border-radius: 8px;">
@@ -73,6 +83,11 @@
  
                 <script src="main.js"></script>
             </div>
+            <div id="pdfBox" class="workshop-box about-frame" >
+               <iframe id="pdfFrame"></iframe>
+               <script src="main.js"></script>
+           </div>
+            
 
 </body>
 </html>
