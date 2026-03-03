@@ -12,7 +12,7 @@ h1 {
 
 a { text-decoration: none;
 }
-.wordart1{
+.wordart1 {
     font-size: 15px;
     font-weight: bold;
     color: magenta;
@@ -23,7 +23,7 @@ a { text-decoration: none;
     margin-top: 50px;
     margin-left: 50px;
 }
-.wordart2{
+.wordart2 {
     font-size: 22px;
     font-weight: bold;
     background: cyan;
@@ -34,15 +34,18 @@ a { text-decoration: none;
 
 }
 
-.wordart3{
+
+.wordart3 {
 
     font-size: 25px;
     font-weight: bold;
-    width: 100%;
     color: white;
     background:blue;
     text-align: center;
     margin-top: 1px;
+     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+     border-radius: 12px;
+
 }
 .wordart3A{
 
@@ -52,9 +55,10 @@ a { text-decoration: none;
     background: cyan;
     text-align: left;
     margin-top: 20px;
-    margin-left: 10px;
+    margin-left:50px;
+   
 }
-.wordart4{
+.wordart4 {
 
     font-size: 25px;
     font-weight: bold;
@@ -73,14 +77,12 @@ a { text-decoration: none;
     justify-content: center; 
    
 }
-.main-image{
+.main-image {
     width: 300px;
     height: 200px;
    overflow: hidden;
  margin-top: 20px;
-   ;
-
-
+   
 }
 .main-image img{
     width: 100%;
@@ -92,7 +94,7 @@ a { text-decoration: none;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 
 }
-.main-image1{
+.main-image1 {
     width: 100;
     height: auto;
    overflow: hidden;
@@ -100,7 +102,8 @@ a { text-decoration: none;
    
 }
 .main-image1 img{
-   
+    
+    
     margin-left: 150px;
     object-fit: cover;
     
@@ -110,11 +113,6 @@ a { text-decoration: none;
 
 }
 
-.gallery1{
-     display: flex;              /* ⭐ makes horizontal */
-    gap: 10px;                  /* space between images */
-    justify-content: center; 
-}
 .photobox {
  width: 300px;
     height: 200px;
@@ -309,16 +307,18 @@ footer{
     padding: 20px;
     width: 70%;
     margin: 20px auto;
-    text-align: center;
+    text-align: left;
     background-color: cyan;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    color:blue;
+    
     
 }
 
 .about-frame p {
     font-size: 16px;
-    font-weight: bold;
+    font-weight:bold;
     line-height: 1.6;
     color: blue;
 }
@@ -368,4 +368,33 @@ footer{
     display: block;
     padding: 10px;
 }
+.table-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: blue;
+    padding: 12px;
+    caption-side: top;
+    text-align: center;
+}
+.about-box {
+    
+    border: none;
+    padding: 20px;
+    width: 78%;
+    margin: 20px auto;
+    text-align: left;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 
+    white-space: pre-wrap;   /* VERY IMPORTANT for txt */
+    max-height: 600px;       /* optional but recommended */
+    overflow-y: auto;        /* scrollbar for long text */
+    font-size:15px;
+    color:blue;
+}
+iframe {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
