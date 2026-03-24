@@ -1,0 +1,95 @@
+body {
+    font-family: Garamond;
+    background: cyan;
+    font-size: 12p
+}
+
+input[type="checkbox"]{
+    accent-color:blue;
+}
+
+.default{
+    accent-color:blue;
+}
+.checked{
+    accent-color:red;
+}
+.panelstyle{
+    width:400px;
+    height:180px;
+    color:blue;
+    font-weight: bold;
+    margin:auto;
+    padding:15px;
+    border:1px solid blue;
+
+}
+.textstyle{
+    padding:5px;
+    width:180px;
+    height:25px;
+    background-color: white;
+    box-sizing: border-box;
+    color:blue;
+    font-weight: bold;
+}
+label{
+    white-space: nowrap;
+    overflow: hidden;
+    
+    color:blue;
+}
+.form-group{
+    display:grid;
+    grid-template-columns: 180px 200px;;
+    gap:10px;
+    margin-bottom: 10px;   
+}
+button{
+    width:180px;
+    height:25px;
+    background-color: blue;
+    color:white;
+    border:none;
+    cursor: pointer;
+    
+}
+.wordart1{
+      font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background:blue;
+    text-align: center;
+    margin-top: 1px;
+     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    
+}
+.header-container {
+    display: flex;              /* makes items side by side */
+    align-items: center;        /* vertical alignment */
+    justify-content: space-around;    /* center horizontally */
+    gap: 20px;                  /* space between items */
+    flex-wrap: wrap;
+
+
+
+}
+.question-box{
+    border:1px solid gray;
+    padding:10px;
+    margin-bottom: 10px;
+}
+label{
+    display:block;
+}
+.panelstyle1{
+     width:600px;
+    height:450px;
+    color:blue;
+    font-weight: bold;
+    margin:auto;
+    padding:15px;
+    border:1px solid blue;
+    overflow-y: auto;
+    background-color: white;
+}

@@ -1,0 +1,161 @@
+Fitter 1st Year
+Trade Theory
+
+
+All necessary guidance to be provided to the new comers to become familiar with the working of Industrial Training Institute system including stores procedures.
+Soft Skills, its importance and Job area after completion of training
+Importance of safety and general precautions observed in the in the industry/shop floor.
+Introduction of First aid. Operation of electrical mains and electrical safety. Introduction of PPEs.
+Response to emergencies e.g.; power failure, fire, and system failure.
+Importance of housekeeping & good shop floor practices. Introduction to 5S concept & its application
+Occupational Safety & Health, Safety and Environment guidelines, legislations & regulations as applicable
+Basic understanding on Hot work, confined space work and material handling equipment. (04 hrs.)
+_____________________________________________________________________________________________________________________________
+
+Linear measurements- its units, dividers, calipers, hermaphrodite, centre punch, dot punch, prick punch their description and uses of different types of hammers Description, use and care of 'V' Blocks, marking off table.
+Measuring standards (English, Metric Units), angular measurements. (04 hrs.)
+_____________________________________________________________________________________________________________________________
+
+Bench vice construction, types, uses, ca re & maintenance, vice clamps, hacksaw frames and blades, specification, description, types and their uses, method of using hacksaws.
+_____________________________________________________________________________________________________________________________
+
+Files- specifications, description, materials, grades, cuts, fil e elements, uses. Types of files, care and maintenance of files.
+Measuring standards (English, Metric Units), angular measurements. (04 hrs.)
+_____________________________________________________________________________________________________________________________
+
+Marking off lay out tools, dividers,	scribing block, description, classification, material, care & maintenance.
+Try square, ordinary depth gauge, protractor- description, uses and cares.
+Uses, care & maintenance of cold chisels- materials, types, cutting angles. (04 hrs.)
+_____________________________________________________________________________________________________________________________
+
+Marking media, marking blue, Prussian blue, red lead, chalk and their special application, description.
+Use, care and maintenance of scribing block.
+Surface plate and auxiliary marking equipment, 'V' block, angle plates, parallel block, description, types, uses, accuracy, care and maintenance. (03 hrs.)
+______________________________________________________________________________________________________________________________
+
+Physical properties of engineering metal: colour, weight, structure, and conductivity, magnetic, fusibility, specific gravity. Mechanical properties: ductility, malleability hardness, brittleness, toughness, tenacity, and elasticity. (04 hrs.)
+______________________________________________________________________________________________________________________________
+
+Power Saw, band saw, Circular saw machines used for metal cutting. (03 hrs.)
+______________________________________________________________________________________________________________________________
+
+Micrometer- outside and inside - principle, constructional features, parts graduation, reading, use and care. Micrometer depth gauge, parts, graduation, reading, use and care. Digital micrometer. (03 hrs.)
+______________________________________________________________________________________________________________________________
+
+Vernier calipers, principle, construction, graduations, reading, use and ca re . Vernier bevel protractor, construction, graduations, reading, use and care, dial Vernier Caliper, Digital Vernier caliper.
+Vernier height gauge: material construction, parts, graduations (English & Metric) uses, care and maintenance. (03 hrs.)
+______________________________________________________________________________________________________________________________
+
+Drilling processes: common type (bench type, pillar type, radial type), gang and multiple drilling machine.
+Determination of tap drill size (03 hrs.)
+______________________________________________________________________________________________________________________________
+
+Safety precautions to be observed in a sheet metal workshop, sheet and sizes, Commercial sizes and various types of metal sheets, coated sheets and their uses as per BIS specifications. Shearing machine- description, parts and uses. (05 hrs.)
+______________________________________________________________________________________________________________________________
+
+Marking and measuring tools, wing compass, tinman's square tools, snips, types and uses. Tinman's hammers and mallets type-sheet metal tools, types, specifications, uses. Trammel- description, parts, uses. Hand grooves- specifications and uses.
+Sheet and wire gauge. (07 hrs.)
+______________________________________________________________________________________________________________________________
+
+Stakes-bench types, parts, their uses. Various types of metal joints, their selection and application, tolerance for various joints, their selection & application. Wired edges. (04 hrs.)
+______________________________________________________________________________________________________________________________
+
+Solder and soldering: Introduction-types of solder and flux Composition of various types of solders and their heating media of soldering iron. Method of soldering, selection and application-joints Hard solder- Introduction, types and method of brazing. (05 hrs.)
+______________________________________________________________________________________________________________________________
+
+Various rivets shape and form of heads, importance of correct head size
+Rivets-Tin man's rivets types, sizes, and selection for various works.
+Riveting tools, dolly snaps description and uses. Method of riveting,
+The spacing of rivets. Flash riveting, use of correct tools, compare hot and cold riveting. (03 hrs.)
+______________________________________________________________________________________________________________________________
+
+Safety-importance of safety and general precautions observed in a welding shop. Precautions in electric and gas welding. (Before, during, after) Introduction to safety equipment and their uses Machines and accessories, welding transformer, welding generators. (04 hrs.)
+______________________________________________________________________________________________________________________________
+
+Welding hand tools: Hammers, welding description, types and uses, description, principle, method of operating, carbon dioxide welding. H.P welding equipment: description, principle, method of operating L.P welding equipment: description, principle, method of operating. Types of Joints-Butt and fillet as per BIS SP: 46-1988 specifications. Gases and gas cylinder description, kinds, main difference and uses. (05 hrs.)
+______________________________________________________________________________________________________________________________
+
+Setting up parameters for ARC welding machines-selection of Welding electrodes. Care to be taken in keeping electrode. (05 hrs.)
+______________________________________________________________________________________________________________________________
+
+Oxygen acetylene cutting-machine description, parts, uses, method of handling, cutting torch-description, parts, function and uses. (06 hrs.)
+______________________________________________________________________________________________________________________________
+
+Drill- material, types, (Taper shank, straight shank) parts and sizes. Drill angle-cutting angle for different materials,
+cutting speed feed R.P M. for different materials. Drill holding devices- material, construction and their uses. (04 hrs.)
+
+Counter sink, counter bore and spot facing-tools and nomenclature, Reamer- material, types (Hand and machine reamer), kinds, parts and their uses, determining hole size (or reaming), Reaming procedure.
+
+Screw threads: terminology, parts, types and their uses. Screw pitch gauge: material parts and uses Taps British standard (B. S. W. , B.S.F. , B.A. & B.S.P.) and metric / BIS (coarse and fine) material, parts (shank body, flute, cutting edge) (03 hrs.)
+______________________________________________________________________________________________________________________________
+
+Tap wrench: material, parts, types (solid  & adjustable types) and their uses removal of broken tap, studs (tap stud extractor)
+Dies: British standard, metric and BIS standard, material, parts, types, Method of using dies. Die stock: material, parts and uses. (06 hrs.)
+______________________________________________________________________________________________________________________________
+
+Drill troubles: causes and remedy. Equality of lips, correct clearance, dead centre, length of lips. Drill kinds: Fraction, metric, letters and numbers, grinding of drill. (04 hrs.)
+
+Grinding wheel: Abrasive, grade structures, bond, specification, use, mounting and dressing. Selection of grinding wheels. Bench grinder parts and use. (04 hrs.)
+______________________________________________________________________________________________________________________________
+
+
+Gauges- Introduction, necessity, types. Limit gauge: Ring gauge, snap gauge, plug gauge, description and uses.
+Description and uses of gauge- types (feeler, screw, pitch, radius, wire gauge). (05 hrs.)
+______________________________________________________________________________________________________________________________
+
+Interchange ability: Necessity in Engineering, field definition, BIS. Definition, types of limit, terminology of limits and fits-basic size, actual size, deviation, high and low limit, zero line, tolerance zone Different standard systems of fits and limits. British standard system, BIS system. (05 hrs.)
+______________________________________________________________________________________________________________________________
+
+
+Method of expressing tolerance as
+per BIS Fits: Definition, types, description of each with sketch Vernier height gauge: material construction, parts, graduations (English & Metric) uses, care and maintenance. (04 hrs.)
+______________________________________________________________________________________________________________________________
+
+Pig Iron: types of pig Iron, properties
+and uses.
+Cast Iron: types, properties and uses Wrought iron:- properties and uses.
+Steel: plain carbon steels, types, properties and uses.
+Non-ferrous metals (copper, aluminium, tin, lead, zinc) properties and uses. (05 hrs.)
+______________________________________________________________________________________________________________________________
+
+Simple scraper- flat, half round, triangular and hook scraper and their uses. Blue matching of scraped surfaces (flat and curved bearing surfaces). Testing scraped surfaces: ordinary surfaces without a master plate. (04 hrs.)
+______________________________________________________________________________________________________________________________
+
+Vernier micrometer, material, parts, graduation, use, care and maintenance. Calibration of measuring instruments.
+Introduction to mechanical fasteners and its uses.
+Screw thread micrometer: Construction, graduation and use (05 hrs.)
+______________________________________________________________________________________________________________________________
+
+Dial test indicator, construction, parts, material, graduation, Method of use, care and maintenance Digital dial indicator. Comparators-measurement of quality in the cylinder bores. (05 hrs.)
+______________________________________________________________________________________________________________________________
+
+Safely precautions to be observed while working on a lathe, Lathe specifications, and constructional features.  Lathe  main  parts descriptions- bed, head stock, carriage, tail stock, feeding and thread cutting mechanisms. Holding of job between centres, works with catch plate, dog, simple description of a facing and roughing tool and their applications. (04 hrs.)
+______________________________________________________________________________________________________________________________
+Lathe cutting tools- Nomenclature of single point & multipoint cutting tools,
+Tool selection based on different requirements and necessity of correct grinding, solid and tipped, throw away type tools, cutting speed and feed and comparison for
+H. S. S. , ca r bide too Is. Use of coolants and lubricants. (03 hrs.)
+______________________________________________________________________________________________________________________________
+
+Chucks	and chucking the independent four-jaw chuck Reversible features of jaws, the back plate, Method of clearing the thread of the chuck-mounting and dismounting, chucks, chucking true, face plate, drilling - method of holding drills in the tail stock, Boring tools and enlargement of holes (02 hrs.)
+______________________________________________________________________________________________________________________________
+
+General turning operations- parallel or straight, turning. Stepped turning, grooving, and shape of tools for the above operations. Appropriate method of holding the tool on tool post or tool rest, Knurling: - tools description, grade, uses, speed and feed, coolant for knurling, speed, feed calculation.
+Taper - definition, use and method of expressing tapers. Standard tapers-taper, calculations Morse taper. (03 hrs.)
+______________________________________________________________________________________________________________________________
+
+Screw thread definition - uses and application. Square , worm, buttress, acme ( nonstandard-screw threads), Principle of cutting screw thread in centre lathe principle of chasing the screw thread use of centre gauge, setting tool for cutting internal and external threads, use of screw pitch gauge for checking the screw thread. (03 hrs.)
+______________________________________________________________________________________________________________________________
+
+Maintenance
+-Total productive maintenance
+-Autonomous maintenance
+-Routine maintenance
+-Maintenance schedule
+-Retrieval of data from machine manuals Preventive maintenance-objective and function of Preventive maintenance, section inspection
+Visual and detailed, lubrication survey, system of symbol and colour coding. Revision, simple estimation of mate rials, use of handbooks and reference table Possible ca uses for assembly failures and remedies.
+Installation, maintenance and overhaul of machinery an d engineering equipment (10 hrs.)
+______________________________________________________________________________________________________________________________
+
+Assembling techniques such as aligning, bending, fixing, mechanical jointing, threaded jointing, sealing, and torquing. Dowel pins: material, construction, types, accuracy and uses. (02 hrs.)
+
+___________________________________________________xxxxxxxxxx_________________________________________________________________
