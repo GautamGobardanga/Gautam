@@ -93,3 +93,14 @@ label{
     overflow-y: auto;
     background-color: white;
 }
+.panelstyle2{
+     width:400px;
+    height:200px;
+    color:blue;
+    font-weight: bold;
+    margin:auto;
+    padding:15px;
+    border:1px solid blue;
+    overflow-y: auto;
+    background-color: cyan;
+}
