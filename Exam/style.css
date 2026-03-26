@@ -103,4 +103,5 @@ label{
     border:1px solid blue;
     overflow-y: auto;
     background-color: cyan;
+    text-align: center; 
 }
