@@ -105,3 +105,14 @@ label{
     background-color: cyan;
     text-align: center; 
 }
+.panelstyle3{
+     width:600px;
+    height:400px;
+    color:blue;
+    font-weight: bold;
+    margin:auto;
+    padding:15px;
+    border:1px solid blue;
+    overflow-y: auto;
+    background-color: cyan;
+}
