@@ -48,3 +48,17 @@ fetch("backOffice.html")
         }
     })
     .catch(err=>console.error("Header load error:",err));
+document.addEventListener("DOMContentLoaded",function(){
+    fetch("teacherWork.html")
+    .then(response=>response.text())
+    .then(data=>{
+        document.getElementById("teacherWork").innerHTML=data;
+        let btn=this.getElementById("btnSubmit");
+        if(btn){
+            btn.addEventListner("click",function(){
+                window.location.href="exam.html";
+            });
+        }
+    
+   })
+});
