@@ -4,7 +4,7 @@ fetch("header.html")
     .then(response=>response.text())
     .then(data=>{
         document.getElementById ("header").innerHTML =data;
-        let btn=this.getElementById("btnSubmit");
+        let btn=document.getElementById("btnSubmit");
         if(btn){
             btn.addEventListener("click",function(){
                 window.location.href="exam.html";
