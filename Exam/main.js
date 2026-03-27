@@ -31,7 +31,7 @@ for (let i=1; i<=50; i++) {
         <label><input type="radio" name="q${i}" value="C"> C. Option C</label><br>
         <label><input type="radio" name="q${i}" value="D"> D. Option D</label>
     
-    
+    `;
       container.appendChild(questionDiv);
 }
 });
