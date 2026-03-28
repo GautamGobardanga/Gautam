@@ -33,9 +33,7 @@ let container=document.getElementById("questionContainer");
 
 if(!container) return;
 if (action === "open") {
-    document.body.insertAdjacentHTML("afterbegin",
-        "<h2 style='color:blue;'>Preview Mode</h2>");
-
+   
 for (let i=1; i<=50; i++) {
     let questionDiv=document.createElement("div");
     questionDiv.className="question-box";
@@ -52,8 +50,7 @@ for (let i=1; i<=50; i++) {
 }
 
 if (action === "submit") {
-    document.body.insertAdjacentHTML("afterbegin",
-        "<h2 style='color:green;'>Exam Mode</h2>");
+   
 }
 
 
