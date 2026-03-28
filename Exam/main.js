@@ -13,7 +13,7 @@ fetch("header.html")
             });
         }
     })
-    })
+    
     .catch(err=>console.error("Header load error:",err));
 
 
@@ -22,7 +22,7 @@ fetch("header.html")
 
 let container=document.getElementById("questionContainer");
 
-if(!container){ return;}
+if(!container) return;
 
 for (let i=1; i<=50; i++) {
     let questionDiv=document.createElement("div");
