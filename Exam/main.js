@@ -35,30 +35,3 @@ for (let i=1; i<=50; i++) {
       container.appendChild(questionDiv);
 }
 });
-document.addEventListener("DOMContentLoaded", function () {
-fetch("backOffice.html")
-    .then(response=>response.text())
-    .then(data=>{
-        document.getElementById ("backoffice").innerHTML =data;
-        let btn=this.getElementById("btnSubmit");
-        if(btn){
-            btn.addEventListener("click",function(){
-                window.location.href="exam.html";
-            });
-        }
-    })
-    .catch(err=>console.error("Header load error:",err));
-document.addEventListener("DOMContentLoaded",function(){
-    fetch("teacherWork.html")
-    .then(response=>response.text())
-    .then(data=>{
-        document.getElementById("teacherWork").innerHTML=data;
-        let btn=this.getElementById("btnSubmit");
-        if(btn){
-            btn.addEventListener("click",function(){
-                window.location.href="exam.html";
-            });
-        }
-    
-   })
-});
