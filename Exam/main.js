@@ -49,4 +49,4 @@ for (let i=1; i<=50; i++) {
       container.appendChild(questionDiv);
 }
 });
-}
+};
