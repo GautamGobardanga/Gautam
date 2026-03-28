@@ -1,7 +1,7 @@
 
 document.addEventListener("DOMContentLoaded", function () {
-     let headerDiv = document.getElementById("header");
-    if(headerDiv){
+    
+    
 fetch("header.html")
     .then(response=>response.text())
     .then(data=>{
@@ -12,7 +12,7 @@ fetch("header.html")
                 window.location.href="exam.html";
             });
         }
-    }
+    
     })
     .catch(err=>console.error("Header load error:",err));
 
