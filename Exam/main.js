@@ -27,12 +27,12 @@ fetch("header.html")
 
 
 
-
+if (action === "open") {
 
 let container=document.getElementById("questionContainer");
 
 if(!container) return;
-if (action === "open") {
+
 for (let i=1; i<=50; i++) {
     let questionDiv=document.createElement("div");
     questionDiv.className="question-box";
