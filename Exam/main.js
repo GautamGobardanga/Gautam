@@ -12,7 +12,7 @@ fetch("header.html")
                 window.location.href="exam.html";
             });
         }
-    
+    }
     })
     .catch(err=>console.error("Header load error:",err));
 
