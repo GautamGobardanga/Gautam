@@ -35,12 +35,6 @@ if(!container) return;
 if (action === "open") {
     document.body.insertAdjacentHTML("afterbegin",
         "<h2 style='color:blue;'>Preview Mode</h2>");
-}
-
-if (action === "submit") {
-    document.body.insertAdjacentHTML("afterbegin",
-        "<h2 style='color:green;'>Exam Mode</h2>");
-}
 
 for (let i=1; i<=50; i++) {
     let questionDiv=document.createElement("div");
@@ -54,6 +48,12 @@ for (let i=1; i<=50; i++) {
     
     `;
       container.appendChild(questionDiv);
+}
+}
+
+if (action === "submit") {
+    document.body.insertAdjacentHTML("afterbegin",
+        "<h2 style='color:green;'>Exam Mode</h2>");
 }
 
 
