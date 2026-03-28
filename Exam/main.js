@@ -7,7 +7,9 @@ if (action === "submit") {
 }
 
 
-
+if (action === "open") {
+    alert("Open clicked → Start exam");
+}
 
 
 
@@ -28,8 +30,7 @@ fetch("header.html")
 
 
 
-if (action === "open") {
-    alert("Open clicked → Start exam");
+
 
 let container=document.getElementById("questionContainer");
 
@@ -48,6 +49,6 @@ for (let i=1; i<=50; i++) {
     `;
       container.appendChild(questionDiv);
 }
-}
+
 });
 
