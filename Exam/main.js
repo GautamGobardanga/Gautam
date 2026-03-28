@@ -1,3 +1,16 @@
+const params = new URLSearchParams(window.location.search);
+
+let action = params.get("action");
+
+if (action === "submit") {
+    alert("Submit clicked → End exam");
+}
+
+
+if (action === "open") {
+    alert("Open clicked → Start exam");
+}
+
 
 document.addEventListener("DOMContentLoaded", function () {
     
@@ -14,7 +27,7 @@ fetch("header.html")
 
 
 
-
+if (action === "open") {
 
 let container=document.getElementById("questionContainer");
 
@@ -33,18 +46,7 @@ for (let i=1; i<=50; i++) {
     `;
       container.appendChild(questionDiv);
 }
+}
 
 });
-const params = new URLSearchParams(window.location.search);
-
-let action = params.get("action");
-
-if (action === "submit") {
-    alert("Submit clicked → End exam");
-}
-
-
-if (action === "open") {
-    alert("Open clicked → Start exam");
-}
 
