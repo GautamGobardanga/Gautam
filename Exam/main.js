@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded",function(){
         document.getElementById("teacherWork").innerHTML=data;
         let btn=this.getElementById("btnSubmit");
         if(btn){
-            btn.addEventListner("click",function(){
+            btn.addEventListener("click",function(){
                 window.location.href="exam.html";
             });
         }
