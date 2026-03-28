@@ -6,8 +6,7 @@ if (action === "submit") {
     alert("Submit clicked → End exam");
 }
 
-if (action === "open") {
-    alert("Open clicked → Start exam");
+
 
 
 
@@ -29,7 +28,8 @@ fetch("header.html")
 
 
 
-
+if (action === "open") {
+    alert("Open clicked → Start exam");
 
 let container=document.getElementById("questionContainer");
 
