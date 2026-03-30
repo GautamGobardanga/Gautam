@@ -51,4 +51,41 @@ for (let i=1; i<=50; i++) {
 
 
 });
+fetch("https://localhost:7238/api/Student/save", {
+    method: "POST",
+    headers: {
+        "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+        studentName: "Gautam",
+        roll: "101"
+    })
+})
+.then(res => res.json())
+.then(data => console.log(data))
+.catch(err => console.error(err));
+
+function saveStudent() {
+    console.log("Button clicked");   // 👈 add this
+
+    let name = document.getElementById("name").value;
+    let roll = document.getElementById("roll").value;
+
+    fetch("https://localhost:7238/api/Student/save", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            studentName: name,
+            roll: roll
+        })
+    })
+    .then(res => res.json())
+    .then(data => {
+        console.log("Response:", data);
+        alert("Saved successfully");
+    })
+    .catch(err => console.error("Error:", err));
+}
 
